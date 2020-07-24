@@ -1,1 +1,1 @@
-# matlibplot-challenge
+# matplotlib-challenge
